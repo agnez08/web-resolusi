@@ -1,0 +1,3 @@
+Web resolusi
+-Konsisten untuk belajar framework laravel
+-Membuat sebuah project yang bisa digunakan
